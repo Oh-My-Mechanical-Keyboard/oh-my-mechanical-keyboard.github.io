@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>往期团购项目</title>
+    <url>/2022/05/19/historygroupby/</url>
+    <content><![CDATA[<h1 id="2021年"><a href="#2021年" class="headerlink" title="2021年"></a>2021年</h1><h2 id="4月"><a href="#4月" class="headerlink" title="4月"></a>4月</h2><h3 id="nz64ble"><a href="#nz64ble" class="headerlink" title="nz64ble"></a>nz64ble</h3><h1 id="2020年"><a href="#2020年" class="headerlink" title="2020年"></a>2020年</h1><h2 id="11月"><a href="#11月" class="headerlink" title="11月"></a>11月</h2><h3 id="nz64"><a href="#nz64" class="headerlink" title="nz64"></a>nz64</h3>]]></content>
+      <categories>
+        <category>兼容团购</category>
+      </categories>
+      <tags>
+        <tag>团购</tag>
+        <tag>现货</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Y&amp;R 项目清单</title>
+    <url>/2022/05/19/historyproject/</url>
+    <content><![CDATA[<h1 id="2021年项目"><a href="#2021年项目" class="headerlink" title="2021年项目"></a>2021年项目</h1><h2 id="1月项目"><a href="#1月项目" class="headerlink" title="1月项目"></a>1月项目</h2><h3 id="s68m"><a href="#s68m" class="headerlink" title="s68m"></a>s68m</h3><h1 id="2020年项目"><a href="#2020年项目" class="headerlink" title="2020年项目"></a>2020年项目</h1><h2 id="7月项目"><a href="#7月项目" class="headerlink" title="7月项目"></a>7月项目</h2><h3 id="zhou65"><a href="#zhou65" class="headerlink" title="zhou65"></a>zhou65</h3><h3 id="zhou75"><a href="#zhou75" class="headerlink" title="zhou75"></a>zhou75</h3>]]></content>
+      <categories>
+        <category>定制</category>
+      </categories>
+      <tags>
+        <tag>完成的项目</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>团队简介</title>
     <url>/2022/05/18/aboutus/</url>
     <content><![CDATA[<h1 id="Y-amp-R-客制化PCBA制作工作室"><a href="#Y-amp-R-客制化PCBA制作工作室" class="headerlink" title="Y&amp;R 客制化PCBA制作工作室"></a>Y&amp;R 客制化PCBA制作工作室</h1><p>Y&amp;R成立于2021年7月，团队的成立没有也不需要一个炫酷或者有趣的背景故事，我们只是一群机械键盘爱好者，碰巧拥有合适的专业知识和技能，可以为这个好玩的社区提供增值产品和服务。</p>
@@ -13,7 +36,7 @@
 <p>关于团队工作的详细介绍和进度跟踪详情见<a href="/about">Y&amp;R团队</a></p>
 ]]></content>
       <categories>
-        <category>简介</category>
+        <category>团队</category>
       </categories>
       <tags>
         <tag>关于我们</tag>
@@ -22,26 +45,15 @@
       </tags>
   </entry>
   <entry>
-    <title>Y&amp;R 项目清单</title>
-    <url>/2022/05/19/allproject/</url>
-    <content><![CDATA[<h1 id="2021年项目"><a href="#2021年项目" class="headerlink" title="2021年项目"></a>2021年项目</h1><h2 id="1月项目"><a href="#1月项目" class="headerlink" title="1月项目"></a>1月项目</h2><h3 id="s68m"><a href="#s68m" class="headerlink" title="s68m"></a>s68m</h3><h1 id="2020年项目"><a href="#2020年项目" class="headerlink" title="2020年项目"></a>2020年项目</h1><h2 id="7月项目"><a href="#7月项目" class="headerlink" title="7月项目"></a>7月项目</h2><h3 id="zhou65"><a href="#zhou65" class="headerlink" title="zhou65"></a>zhou65</h3><h3 id="zhou75"><a href="#zhou75" class="headerlink" title="zhou75"></a>zhou75</h3>]]></content>
+    <title>往期零售现货项目</title>
+    <url>/2022/05/20/historysale/</url>
+    <content><![CDATA[]]></content>
       <categories>
-        <category>结单</category>
+        <category>兼容现货</category>
       </categories>
       <tags>
-        <tag>完成的项目</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>往期团购项目</title>
-    <url>/2022/05/19/historygroupby/</url>
-    <content><![CDATA[<h1 id="2021年"><a href="#2021年" class="headerlink" title="2021年"></a>2021年</h1><h2 id="4月"><a href="#4月" class="headerlink" title="4月"></a>4月</h2><h3 id="nz64ble"><a href="#nz64ble" class="headerlink" title="nz64ble"></a>nz64ble</h3><h1 id="2020年"><a href="#2020年" class="headerlink" title="2020年"></a>2020年</h1><h2 id="11月"><a href="#11月" class="headerlink" title="11月"></a>11月</h2><h3 id="nz64"><a href="#nz64" class="headerlink" title="nz64"></a>nz64</h3>]]></content>
-      <categories>
-        <category>团购</category>
-      </categories>
-      <tags>
-        <tag>团购</tag>
         <tag>现货</tag>
+        <tag>零售</tag>
       </tags>
   </entry>
   <entry>
@@ -334,9 +346,12 @@
   - 客诉问题收录，避免同类问题的出现 -->]]></content>
       <categories>
         <category>定制</category>
+        <category>商务</category>
       </categories>
       <tags>
+        <tag>团购</tag>
         <tag>定制</tag>
+        <tag>商务合作</tag>
       </tags>
   </entry>
 </search>
