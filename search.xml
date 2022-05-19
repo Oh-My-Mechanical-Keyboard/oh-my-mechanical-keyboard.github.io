@@ -33,18 +33,6 @@
       </tags>
   </entry>
   <entry>
-    <title>往期团购项目</title>
-    <url>/2022/05/19/historygroupby/</url>
-    <content><![CDATA[<h1 id="2021年"><a href="#2021年" class="headerlink" title="2021年"></a>2021年</h1><h2 id="4月"><a href="#4月" class="headerlink" title="4月"></a>4月</h2><h3 id="nz64ble"><a href="#nz64ble" class="headerlink" title="nz64ble"></a>nz64ble</h3><h1 id="2020年"><a href="#2020年" class="headerlink" title="2020年"></a>2020年</h1><h2 id="11月"><a href="#11月" class="headerlink" title="11月"></a>11月</h2><h3 id="nz64"><a href="#nz64" class="headerlink" title="nz64"></a>nz64</h3>]]></content>
-      <categories>
-        <category>团购</category>
-      </categories>
-      <tags>
-        <tag>团购</tag>
-        <tag>现货</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>PCB/PCBA定制流程</title>
     <url>/2022/05/19/orderprocess/</url>
     <content><![CDATA[<h1 id="Y-amp-R团队PCBA定制服务"><a href="#Y-amp-R团队PCBA定制服务" class="headerlink" title="Y&amp;R团队PCBA定制服务"></a>Y&amp;R团队PCBA定制服务</h1><p>团队目前开放小批量定制PCB/PCBA，我们有丰富的客制化键盘PCB制造经验，较小的起订量（MOQ大于或等于50），能为你提供高质量的定制服务。你可<a href="/about">联系我们</a>团队任意成员进行咨询和预报价，在进行咨询前我们非常建议您仔细阅读下面的相关条款和注意事项。</p>
@@ -172,7 +160,7 @@
 </table>
 </div>
 <p>所有Y&amp;R承接的定制订单，均附加个人售后服务，您可将一切PCB问题交付我们团队处理，出货后也可安排Y&amp;R团队成员进客户群排解和处理售后问题，具体售后标准详见，<a href="/service">Y&amp;R售后说明</a>。</p>
-<h2 id="定制服务的流程"><a href="#定制服务的流程" class="headerlink" title="定制服务的流程"></a>定制服务的流程</h2><p>一个标准的定制流程如下，我们会有专人负责每个环节：<br><img src="imgs/orderexample.svg" alt="定制流程"></p>
+<h2 id="定制服务的流程"><a href="#定制服务的流程" class="headerlink" title="定制服务的流程"></a>定制服务的流程</h2><p>一个标准的定制流程如下，我们会有专人负责每个环节：<br><img src="/imgs/orderexample.png" alt="定制流程"></p>
 <!-- ## 服务范围和标准说明
 - 项目功能规格评估
   - 了解客户需求，最大限度的满足客户设计要求
@@ -212,6 +200,18 @@
       </categories>
       <tags>
         <tag>定制</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>往期团购项目</title>
+    <url>/2022/05/19/historygroupby/</url>
+    <content><![CDATA[<h1 id="2021年"><a href="#2021年" class="headerlink" title="2021年"></a>2021年</h1><h2 id="4月"><a href="#4月" class="headerlink" title="4月"></a>4月</h2><h3 id="nz64ble"><a href="#nz64ble" class="headerlink" title="nz64ble"></a>nz64ble</h3><h1 id="2020年"><a href="#2020年" class="headerlink" title="2020年"></a>2020年</h1><h2 id="11月"><a href="#11月" class="headerlink" title="11月"></a>11月</h2><h3 id="nz64"><a href="#nz64" class="headerlink" title="nz64"></a>nz64</h3>]]></content>
+      <categories>
+        <category>团购</category>
+      </categories>
+      <tags>
+        <tag>团购</tag>
+        <tag>现货</tag>
       </tags>
   </entry>
 </search>
