@@ -34,17 +34,6 @@
       </tags>
   </entry>
   <entry>
-    <title>往期定制项目</title>
-    <url>/2022/05/19/historyproject/</url>
-    <content><![CDATA[<h1 id="2021年项目"><a href="#2021年项目" class="headerlink" title="2021年项目"></a>2021年项目</h1><h2 id="1月项目"><a href="#1月项目" class="headerlink" title="1月项目"></a>1月项目</h2><h3 id="s68m"><a href="#s68m" class="headerlink" title="s68m"></a>s68m</h3><h1 id="2020年项目"><a href="#2020年项目" class="headerlink" title="2020年项目"></a>2020年项目</h1><h2 id="7月项目"><a href="#7月项目" class="headerlink" title="7月项目"></a>7月项目</h2><h3 id="zhou65"><a href="#zhou65" class="headerlink" title="zhou65"></a>zhou65</h3><h3 id="zhou75"><a href="#zhou75" class="headerlink" title="zhou75"></a>zhou75</h3>]]></content>
-      <categories>
-        <category>定制</category>
-      </categories>
-      <tags>
-        <tag>完成的项目</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>往期零售现货项目</title>
     <url>/2022/05/20/historysale/</url>
     <content><![CDATA[]]></content>
@@ -54,6 +43,18 @@
       <tags>
         <tag>现货</tag>
         <tag>零售</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>往期定制项目</title>
+    <url>/2022/05/19/historyproject/</url>
+    <content><![CDATA[<h1 id="2021年项目"><a href="#2021年项目" class="headerlink" title="2021年项目"></a>2021年项目</h1><h2 id="1月项目"><a href="#1月项目" class="headerlink" title="1月项目"></a>1月项目</h2><h3 id="s68m"><a href="#s68m" class="headerlink" title="s68m"></a>s68m</h3><h1 id="2020年项目"><a href="#2020年项目" class="headerlink" title="2020年项目"></a>2020年项目</h1><h2 id="7月项目"><a href="#7月项目" class="headerlink" title="7月项目"></a>7月项目</h2><h3 id="zhou65"><a href="#zhou65" class="headerlink" title="zhou65"></a>zhou65</h3><h3 id="zhou75"><a href="#zhou75" class="headerlink" title="zhou75"></a>zhou75</h3>]]></content>
+      <categories>
+        <category>定制</category>
+        <category>定制项目</category>
+      </categories>
+      <tags>
+        <tag>完成的项目</tag>
       </tags>
   </entry>
   <entry>
@@ -346,7 +347,7 @@
   - 客诉问题收录，避免同类问题的出现 -->]]></content>
       <categories>
         <category>定制</category>
-        <category>商务</category>
+        <category>商务合作</category>
       </categories>
       <tags>
         <tag>团购</tag>
