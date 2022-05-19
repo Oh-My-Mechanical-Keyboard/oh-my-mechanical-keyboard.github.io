@@ -33,6 +33,18 @@
       </tags>
   </entry>
   <entry>
+    <title>往期团购项目</title>
+    <url>/2022/05/19/historygroupby/</url>
+    <content><![CDATA[<h1 id="2021年"><a href="#2021年" class="headerlink" title="2021年"></a>2021年</h1><h2 id="4月"><a href="#4月" class="headerlink" title="4月"></a>4月</h2><h3 id="nz64ble"><a href="#nz64ble" class="headerlink" title="nz64ble"></a>nz64ble</h3><h1 id="2020年"><a href="#2020年" class="headerlink" title="2020年"></a>2020年</h1><h2 id="11月"><a href="#11月" class="headerlink" title="11月"></a>11月</h2><h3 id="nz64"><a href="#nz64" class="headerlink" title="nz64"></a>nz64</h3>]]></content>
+      <categories>
+        <category>团购</category>
+      </categories>
+      <tags>
+        <tag>团购</tag>
+        <tag>现货</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>PCB/PCBA定制流程</title>
     <url>/2022/05/19/orderprocess/</url>
     <content><![CDATA[<h1 id="Y-amp-R团队PCBA定制服务"><a href="#Y-amp-R团队PCBA定制服务" class="headerlink" title="Y&amp;R团队PCBA定制服务"></a>Y&amp;R团队PCBA定制服务</h1><p>团队目前开放小批量定制PCB/PCBA，我们有丰富的客制化键盘PCB制造经验，较小的起订量（MOQ大于或等于50），能为你提供高质量的定制服务。你可<a href="/about">联系我们</a>团队任意成员进行咨询和预报价，在进行咨询前我们非常建议您仔细阅读下面的相关条款和注意事项。</p>
@@ -85,6 +97,7 @@
 <li>特殊色：粉色，灰色，哑光绿等。这类色是客户指定色或者厂家特有色，价格较贵，工期较长。</li>
 </ol>
 </li>
+<li>PCB厚度可选：1.6mm, 1.2mm, 0.8mm。</li>
 <li>目前团队支持市面上常见的大部分开槽板材设计，包括但不限于多个横槽，多个竖槽，单按键开槽以及组合槽等</li>
 </ol>
 </li>
@@ -161,6 +174,130 @@
 </div>
 <p>所有Y&amp;R承接的定制订单，均附加个人售后服务，您可将一切PCB问题交付我们团队处理，出货后也可安排Y&amp;R团队成员进客户群排解和处理售后问题，具体售后标准详见，<a href="/service">Y&amp;R售后说明</a>。</p>
 <h2 id="定制服务的流程"><a href="#定制服务的流程" class="headerlink" title="定制服务的流程"></a>定制服务的流程</h2><p>一个标准的定制流程如下，我们会有专人负责每个环节：<br><img src="/imgs/orderexample.png" alt="定制流程"></p>
+<h2 id="需求清单"><a href="#需求清单" class="headerlink" title="需求清单"></a>需求清单</h2><p>最后我们提供一个标准化的需求清单，您可再填写完成后附加您的PCB外形图进行咨询，我们将会快速给出您预报价。</p>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th>需求</th>
+<th>参数</th>
+<th>参考样板</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>是否双模</td>
+<td></td>
+<td>是</td>
+</tr>
+<tr>
+<td>键位数</td>
+<td></td>
+<td>64</td>
+</tr>
+<tr>
+<td>热拔插数量</td>
+<td></td>
+<td>64</td>
+</tr>
+<tr>
+<td>RGB数量</td>
+<td></td>
+<td>0</td>
+</tr>
+<tr>
+<td>支持配列</td>
+<td></td>
+<td>单一左移64</td>
+</tr>
+<tr>
+<td>卫星轴方向</td>
+<td></td>
+<td>空格钢丝向上，其余向下</td>
+</tr>
+<tr>
+<td>开槽情况</td>
+<td></td>
+<td>多个横槽</td>
+</tr>
+<tr>
+<td>接口端子位置</td>
+<td></td>
+<td>板载typec+mx1.25 4pin</td>
+</tr>
+<tr>
+<td>端子型号</td>
+<td></td>
+<td>mx1.25 4pin</td>
+</tr>
+<tr>
+<td>主pcb厚度</td>
+<td></td>
+<td>1.2mm</td>
+</tr>
+<tr>
+<td>阻焊颜色</td>
+<td></td>
+<td>打样绿色，大货透明油</td>
+</tr>
+<tr>
+<td>是否需要垫片</td>
+<td></td>
+<td>不需要，自备</td>
+</tr>
+<tr>
+<td>是否分离小板</td>
+<td></td>
+<td>需要</td>
+</tr>
+<tr>
+<td>分离小板厚度</td>
+<td></td>
+<td>1.6mm</td>
+</tr>
+<tr>
+<td>阻焊颜色</td>
+<td></td>
+<td>打样绿色，大货黑色</td>
+</tr>
+<tr>
+<td>蓝牙模块安装方式</td>
+<td></td>
+<td>BTB+FPC都预留</td>
+</tr>
+<tr>
+<td>电池端子型号</td>
+<td></td>
+<td>mx1.25超薄</td>
+</tr>
+<tr>
+<td>是否双面贴片</td>
+<td></td>
+<td>是 BTB需要双面贴</td>
+</tr>
+<tr>
+<td>定位板材质</td>
+<td></td>
+<td>fr4，需要开信号槽</td>
+</tr>
+<tr>
+<td>是否海外版</td>
+<td></td>
+<td>否</td>
+</tr>
+<tr>
+<td>特殊需求</td>
+<td></td>
+<td>黑芯，透明油</td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<p>特殊需求包括但不限于以下功能：沉金，黑芯，透明油阻焊，OLED，旋钮等</p>
+</blockquote>
+<p>报价清单中样板数据使用的键盘外形如下，仅供参考：</p>
+<p><img src="https://i.imgur.com/FCb4uxK.jpg" alt=""></p>
 <!-- ## 服务范围和标准说明
 - 项目功能规格评估
   - 了解客户需求，最大限度的满足客户设计要求
@@ -200,18 +337,6 @@
       </categories>
       <tags>
         <tag>定制</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>往期团购项目</title>
-    <url>/2022/05/19/historygroupby/</url>
-    <content><![CDATA[<h1 id="2021年"><a href="#2021年" class="headerlink" title="2021年"></a>2021年</h1><h2 id="4月"><a href="#4月" class="headerlink" title="4月"></a>4月</h2><h3 id="nz64ble"><a href="#nz64ble" class="headerlink" title="nz64ble"></a>nz64ble</h3><h1 id="2020年"><a href="#2020年" class="headerlink" title="2020年"></a>2020年</h1><h2 id="11月"><a href="#11月" class="headerlink" title="11月"></a>11月</h2><h3 id="nz64"><a href="#nz64" class="headerlink" title="nz64"></a>nz64</h3>]]></content>
-      <categories>
-        <category>团购</category>
-      </categories>
-      <tags>
-        <tag>团购</tag>
-        <tag>现货</tag>
       </tags>
   </entry>
 </search>
