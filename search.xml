@@ -3,17 +3,22 @@
   <entry>
     <title>团队简介</title>
     <url>/2022/05/18/aboutus/</url>
-    <content><![CDATA[<h1 id="Y-amp-R-客制化PCBA制作工作室"><a href="#Y-amp-R-客制化PCBA制作工作室" class="headerlink" title="Y&amp;R 客制化PCBA制作工作室"></a>Y&amp;R 客制化PCBA制作工作室</h1><p>Y&amp;R成立于2021年7月，团队的成立没有也不需要一个炫酷或者有趣的背景故事，我们只是一群机械键盘爱好者，碰巧拥有合适的专业知识和技能，可以为这个好玩的社区提供专业的增值产品和服务。</p>
+    <content><![CDATA[<h1 id="Y-amp-R-客制化PCBA制作工作室"><a href="#Y-amp-R-客制化PCBA制作工作室" class="headerlink" title="Y&amp;R 客制化PCBA制作工作室"></a>Y&amp;R 客制化PCBA制作工作室</h1><p>Y&amp;R成立于2021年7月，团队的成立没有也不需要一个炫酷或者有趣的背景故事，我们只是一群机械键盘爱好者，碰巧拥有合适的专业知识和技能，可以为这个好玩的社区提供增值产品和服务。</p>
 <p>针对机械键盘领域，我们目前的工作主要集中在三个方面：</p>
 <ol>
-<li>PCB&#x2F;PCBA设计，测试，生产和售后委托</li>
+<li>PCB/PCBA设计，测试，生产和售后委托</li>
 <li>兼容PCBA的板材团购</li>
 <li>流行配列的兼容PCBA的代理批发和零售</li>
 </ol>
 <p>关于团队工作的详细介绍和进度跟踪详情见<a href="/about">Y&amp;R团队</a></p>
 ]]></content>
+      <categories>
+        <category>简介</category>
+      </categories>
       <tags>
-        <tag>auout</tag>
+        <tag>关于我们</tag>
+        <tag>定制流程</tag>
+        <tag>联系我们</tag>
       </tags>
   </entry>
   <entry>
@@ -21,7 +26,7 @@
     <url>/2022/05/19/allproject/</url>
     <content><![CDATA[<h1 id="2021年项目"><a href="#2021年项目" class="headerlink" title="2021年项目"></a>2021年项目</h1><h2 id="1月项目"><a href="#1月项目" class="headerlink" title="1月项目"></a>1月项目</h2><h3 id="s68m"><a href="#s68m" class="headerlink" title="s68m"></a>s68m</h3><h1 id="2020年项目"><a href="#2020年项目" class="headerlink" title="2020年项目"></a>2020年项目</h1><h2 id="7月项目"><a href="#7月项目" class="headerlink" title="7月项目"></a>7月项目</h2><h3 id="zhou65"><a href="#zhou65" class="headerlink" title="zhou65"></a>zhou65</h3><h3 id="zhou75"><a href="#zhou75" class="headerlink" title="zhou75"></a>zhou75</h3>]]></content>
       <categories>
-        <category>work</category>
+        <category>结单</category>
       </categories>
       <tags>
         <tag>完成的项目</tag>
@@ -32,11 +37,181 @@
     <url>/2022/05/19/historygroupby/</url>
     <content><![CDATA[<h1 id="2021年"><a href="#2021年" class="headerlink" title="2021年"></a>2021年</h1><h2 id="4月"><a href="#4月" class="headerlink" title="4月"></a>4月</h2><h3 id="nz64ble"><a href="#nz64ble" class="headerlink" title="nz64ble"></a>nz64ble</h3><h1 id="2020年"><a href="#2020年" class="headerlink" title="2020年"></a>2020年</h1><h2 id="11月"><a href="#11月" class="headerlink" title="11月"></a>11月</h2><h3 id="nz64"><a href="#nz64" class="headerlink" title="nz64"></a>nz64</h3>]]></content>
       <categories>
-        <category>groupby</category>
+        <category>团购</category>
       </categories>
       <tags>
         <tag>团购</tag>
         <tag>现货</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PCB/PCBA定制流程</title>
+    <url>/2022/05/19/orderprocess/</url>
+    <content><![CDATA[<h1 id="Y-amp-R团队PCBA定制服务"><a href="#Y-amp-R团队PCBA定制服务" class="headerlink" title="Y&amp;R团队PCBA定制服务"></a>Y&amp;R团队PCBA定制服务</h1><p>团队目前开放小批量定制PCB/PCBA，我们有丰富的客制化键盘PCB制造经验，较小的起订量（MOQ大于或等于50），能为你提供高质量的定制服务。你可<a href="/about">联系我们</a>团队任意成员进行咨询和预报价，在进行咨询前我们非常建议您仔细阅读下面的相关条款和注意事项。</p>
+<h2 id="可定制产品规格"><a href="#可定制产品规格" class="headerlink" title="可定制产品规格"></a>可定制产品规格</h2><h3 id="功能规格"><a href="#功能规格" class="headerlink" title="功能规格"></a>功能规格</h3><p>请确认您需要定制的键盘产品功能符合以下几个要求<strong>之一</strong>，您也可以提供样板我们会为您评估可行性：</p>
+<ol>
+<li>单模键盘PCB，使用QMK固件，VIA作为改建软件。附加外设列表为：<ol>
+<li>RGB轴灯和底灯，一般采用2812或IS31FL37xx驱动，轴灯使用3528封装的反贴灯</li>
+<li>旋转编码器即旋钮，一般为EC11规格</li>
+<li>OLED黑白显示屏，一般是4线控制，常规尺寸为0.91寸和1.3寸</li>
+<li>摇杆，一般是4线控制（带按压的为5线）</li>
+<li>彩色屏幕，一般支持驱动型号为st77xx，ILI9xxx，GC9A01，SSD1351</li>
+</ol>
+</li>
+<li>双模键盘PCB，支持蓝牙和USB连接，使用Y&amp;R修改版的QMK作为固件，VIA和Y&amp;R研发的KBCTL-NG作为改建软件。可附加外设同单模PCB。蓝牙关键参数为：<ol>
+<li>蓝牙芯片为NRF528xx，一般使用NRF52810，支持蓝牙5.x</li>
+<li>蓝牙可支持最多8个无线设备，一般开放4个供玩家使用</li>
+<li>蓝牙下具有全键无冲功能</li>
+<li>蓝牙下具有1k以上的扫描频率，蓝牙默认回报率为125HZ，实测蓝牙触发最小时间间隔为1-2ms，满足日常使用和大部分游戏使用要求</li>
+<li>蓝牙下按键和USB下按键键位一致，可通过驱动进行修改，使用VIA改建时需要在USB连线时才能修改。</li>
+</ol>
+</li>
+</ol>
+<h3 id="外观和硬件规格"><a href="#外观和硬件规格" class="headerlink" title="外观和硬件规格"></a>外观和硬件规格</h3><p>请确认您需要定制的键盘产品外观符合以下<strong>每项要求之一</strong>，您也可以提供样板我们会为您评估可行性：</p>
+<ol>
+<li>轴体安装方式<ol>
+<li>热拔插，热拔插轴座提供kaihua，jwk可选，颜色kaihua一般为黑色，jwk一般为白色并可选彩色</li>
+<li>焊接</li>
+</ol>
+</li>
+<li>配列<ol>
+<li>焊接一般可以支持大部分配列，并且可以一板兼容多个配列</li>
+<li>热拔插一般建议只做一个配列，兼容多配列存在以下问题，请慎重考虑<ol>
+<li>部分轴座需要旋转90度排列，插上轴后可能会导致部分键帽安装过紧甚至裂开底部十字柱的可能</li>
+<li>部分轴座会遮挡5脚轴的轴孔，会有1-2个轴需要减脚后才能顺利安装</li>
+<li>部分轴座位于PCB卫星轴的中间，如果需要使用卫星轴垫片（一般在1.2的板厚PCB中常用）会存在干涉问题</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>板材以及阻焊<ol>
+<li>板材提供FR4纤维板材，一般有下面2种规格：<ol>
+<li>普通半透明浅黄色玻璃纤维</li>
+<li>全黑色不透明黑芯板材。这类板材较贵，且订货周期较长。</li>
+</ol>
+</li>
+<li>焊盘可选沉金和喷锡2种</li>
+<li>阻焊颜色分为3种，一般可选为：<ol>
+<li>普通色：哑光黑，白，红，蓝，绿，紫，黄。这类色较为便宜</li>
+<li>透明色：全透明亮油，半透明灰油。这类色较贵，一般搭配黑芯板材使用。</li>
+<li>特殊色：粉色，灰色，哑光绿等。这类色是客户指定色或者厂家特有色，价格较贵，工期较长。</li>
+</ol>
+</li>
+<li>目前团队支持市面上常见的大部分开槽板材设计，包括但不限于多个横槽，多个竖槽，单按键开槽以及组合槽等</li>
+</ol>
+</li>
+<li>插件和双面贴片<ol>
+<li>一般常规物料都是贴片封装并且在PCB的背面，PCB正面不放元器件，部分插件有时需要放正面，如果量少会采用人工焊接的方式，贴片费用会相对较高，这部分可选出厂焊接完成或者您自行处理，需要插件或者双面贴片的物料常见的有：<ol>
+<li>旋钮，插件，且需要放正面</li>
+<li>OLED，插件，且需要放正面</li>
+<li>TYPEC母座，某些情况需要放在PCB正面，需要双面贴片（会多开钢网和胶网）</li>
+<li>蓝牙接口，某些情况需要放在PCB正面，需要双面贴片</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<p><a name="定制要求"></a></p>
+<h2 id="定制要求"><a href="#定制要求" class="headerlink" title="定制要求"></a>定制要求</h2><p>目前团队人员和资源较为有限，请确保您的PCB定制需求满足以下<strong>全部条件</strong>：</p>
+<ol>
+<li>单款样式PCB数量最少为50张（一款PCB具有热拔插和焊接2个款式需要保证热拔插PCB数量大于等于50，焊接PCB数量也大于等于50）</li>
+<li>打样时间从交付打样定金开始计算，约定交期不低于15天</li>
+<li>打样完成后20天内下单并结算小批量订单</li>
+<li>小批量订单从下单开始计算，约定交期不低于20天</li>
+</ol>
+<h2 id="收费标准"><a href="#收费标准" class="headerlink" title="收费标准"></a>收费标准</h2><p>目前我们分为2个阶段收费，分别是打样阶段和小批量生产阶段，各阶段收费标准为：</p>
+<blockquote>
+<p><strong>打样阶段</strong></p>
+</blockquote>
+<p>在确认功能和外形以及接受团队给出的预报价后，需要支付<strong>2000</strong>元人民币作为预付定金，在进行小批量下单后的24小时内，我们会结算打样的开销并退还您预付定金中剩余的款项。<br>2000的预付款中包括以下几部分开销：</p>
+<ol>
+<li>基础设计费350元</li>
+<li>附加功能设计费，以下功能和外形，每添加一项收取对应的费用一次：<ol>
+<li>RGB功能，50元</li>
+<li>PCB开单一横槽或者单一竖槽，50元</li>
+<li>PCB单按键开槽或者复杂的组合槽，100元</li>
+<li>双模PCB，50元</li>
+</ol>
+</li>
+<li>打样板材费用，按照实际支出收取，最多打样3次。</li>
+<li>打样板子的物料费用，按照实际支出收取，一般单模70，双模100</li>
+<li>打样的收工调试和焊接费，带RGB的收取80元，不带RGB的收取60元</li>
+</ol>
+<p>在完成打样后并下单小批量订单后，我们会按照您小批量下单的数量给予设计费优惠，板子数量从100片开始计算，每超过50片一次，设计费少收50一次，最多优惠350元。</p>
+<p><strong>注意事项：</strong>只有在小批量下单后才会退还剩余打样预付款，并且小批量订单要满足中的<a href="#定制要求">定制要求</a>。</p>
+<blockquote>
+<p><strong>小批量阶段</strong></p>
+</blockquote>
+<p>小批量阶段我们采用<strong>成本价+抽成价</strong>的方式进行收费，其中成本价为所有物料和加工费的总和（我们会在报价单中清晰地列出每一项的花费），抽成部分按照小批量的数量实行阶梯价收费，具体收费标准如下：</p>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th>数量</th>
+<th>每片抽成费用</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[50,100)</td>
+<td>50元</td>
+</tr>
+<tr>
+<td>[100,300)</td>
+<td>40元</td>
+</tr>
+<tr>
+<td>[300,500)</td>
+<td>35元</td>
+</tr>
+<tr>
+<td>[500,+inf）</td>
+<td>30元</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>所有Y&amp;R承接的定制订单，均附加个人售后服务，您可将一切PCB问题交付我们团队处理，出货后也可安排Y&amp;R团队成员进客户群排解和处理售后问题，具体售后标准详见，<a href="/service">Y&amp;R售后说明</a>。</p>
+<h2 id="定制服务的流程"><a href="#定制服务的流程" class="headerlink" title="定制服务的流程"></a>定制服务的流程</h2><p>一个标准的定制流程如下，我们会有专人负责每个环节：<br><img src="imgs/orderexample.svg" alt="定制流程"></p>
+<!-- ## 服务范围和标准说明
+- 项目功能规格评估
+  - 了解客户需求，最大限度的满足客户设计要求
+  - 发现项目隐患，合理避开风险
+  - 为客户推荐符合产品市场的特色功能
+  - 确定项目可行性
+  - 对项目操作需要的各类准备工作进行确认
+- 高效业务对接
+  - 跟踪项目进度并汇报客户
+  - 及时的了解客户需求，并反馈团队内部处理
+  - 及时的处理突发情况，并跟进处理进度
+  - 完善的售后服务，并妥善的处理
+- 硬件设计
+  - 提供高性能、安全、低成本的原理设计
+  - 单面板、双面板、多层板设计工艺
+  - 资深Layout工程师资源，深入了解键盘产品电气特性
+  - 设计目的明确。对重要点和非重要点处理协调
+  - 严格依据基本设计规范
+  - 与市场接轨的功能实现
+- 样品制作
+    - 提前准备样品制作资料
+    - 样品制作严谨快速
+    - 快速响应客户的规格变动
+    - 高效测试手段
+- 安规标准
+  - 产品材料确保安全
+  - 生产环境确保安全
+  - 成品确保安全
+- 生产协助
+  - 提前告知生产注意要点
+  - 随时解答生产过程中产生的问题
+- 客诉解决
+  - 及时处理客诉问题
+  - 客诉问题收录，避免同类问题的出现 -->]]></content>
+      <categories>
+        <category>定制</category>
+      </categories>
+      <tags>
+        <tag>定制</tag>
       </tags>
   </entry>
 </search>
