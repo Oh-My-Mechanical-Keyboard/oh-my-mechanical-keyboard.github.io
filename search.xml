@@ -45,18 +45,6 @@
       </tags>
   </entry>
   <entry>
-    <title>往期零售现货项目</title>
-    <url>/2022/05/20/historysale/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>兼容现货</category>
-      </categories>
-      <tags>
-        <tag>现货</tag>
-        <tag>零售</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>PCB/PCBA定制流程</title>
     <url>/2022/05/19/orderprocess/</url>
     <content><![CDATA[<h1 id="Y-amp-R团队PCBA定制服务"><a href="#Y-amp-R团队PCBA定制服务" class="headerlink" title="Y&amp;R团队PCBA定制服务"></a>Y&amp;R团队PCBA定制服务</h1><p>团队目前开放小批量定制PCB/PCBA，我们有丰富的客制化键盘PCB制造经验，较小的起订量（MOQ大于或等于50），能为你提供高质量的定制服务。你可<a href="/about">联系我们</a>团队任意成员进行咨询和预报价，在进行咨询前我们非常建议您仔细阅读下面的相关条款和注意事项。</p>
@@ -352,6 +340,18 @@
         <tag>团购</tag>
         <tag>定制</tag>
         <tag>商务合作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>往期零售现货项目</title>
+    <url>/2022/05/20/historysale/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>兼容现货</category>
+      </categories>
+      <tags>
+        <tag>现货</tag>
+        <tag>零售</tag>
       </tags>
   </entry>
 </search>
