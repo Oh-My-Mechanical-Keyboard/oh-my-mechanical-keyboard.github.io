@@ -1,39 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>团队简介</title>
-    <url>/2022/05/18/aboutus/</url>
-    <content><![CDATA[<h1 id="Y-amp-R-客制化PCBA制作工作室"><a href="#Y-amp-R-客制化PCBA制作工作室" class="headerlink" title="Y&amp;R 客制化PCBA制作工作室"></a>Y&amp;R 客制化PCBA制作工作室</h1><p>Y&amp;R成立于2021年7月，团队的成立没有也不需要一个炫酷或者有趣的背景故事，我们只是一群机械键盘爱好者，碰巧拥有合适的专业知识和技能，可以为这个好玩的社区提供增值产品和服务。</p>
-<p>针对机械键盘领域，我们目前的工作主要集中在三个方面：</p>
-<ol>
-<li>PCB/PCBA设计，测试，生产和售后委托</li>
-<li>兼容PCBA的板材团购</li>
-<li>流行配列的兼容PCBA的代理批发和零售</li>
-</ol>
-<p>关于团队工作的详细介绍和进度跟踪详情见<a href="/about">Y&amp;R团队</a></p>
-]]></content>
-      <categories>
-        <category>团队</category>
-      </categories>
-      <tags>
-        <tag>关于我们</tag>
-        <tag>定制流程</tag>
-        <tag>联系我们</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>往期团购项目</title>
-    <url>/2022/05/19/historygroupby/</url>
-    <content><![CDATA[<h1 id="2022年"><a href="#2022年" class="headerlink" title="2022年"></a>2022年</h1>]]></content>
-      <categories>
-        <category>兼容团购</category>
-      </categories>
-      <tags>
-        <tag>团购</tag>
-        <tag>现货</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>往期定制项目</title>
     <url>/2022/05/19/historyproject/</url>
     <content><![CDATA[<h1 id="2021年项目"><a href="#2021年项目" class="headerlink" title="2021年项目"></a>2021年项目</h1><h2 id="5月项目"><a href="#5月项目" class="headerlink" title="5月项目"></a>5月项目</h2><h3 id="eau"><a href="#eau" class="headerlink" title="eau"></a>eau</h3><h3 id="ml75r2"><a href="#ml75r2" class="headerlink" title="ml75r2"></a>ml75r2</h3><h3 id="wave87"><a href="#wave87" class="headerlink" title="wave87"></a>wave87</h3><h3 id="zhou980"><a href="#zhou980" class="headerlink" title="zhou980"></a>zhou980</h3><h2 id="1月项目"><a href="#1月项目" class="headerlink" title="1月项目"></a>1月项目</h2><h3 id="s68m"><a href="#s68m" class="headerlink" title="s68m"></a>s68m</h3><h3 id="m93i"><a href="#m93i" class="headerlink" title="m93i"></a>m93i</h3><h1 id="2020年项目"><a href="#2020年项目" class="headerlink" title="2020年项目"></a>2020年项目</h1><h2 id="12月项目"><a href="#12月项目" class="headerlink" title="12月项目"></a>12月项目</h2><h3 id="zhou65ble"><a href="#zhou65ble" class="headerlink" title="zhou65ble"></a>zhou65ble</h3><h3 id="z-alice-ble"><a href="#z-alice-ble" class="headerlink" title="z_alice_ble"></a>z_alice_ble</h3><h2 id="11月项目"><a href="#11月项目" class="headerlink" title="11月项目"></a>11月项目</h2><h3 id="rs40"><a href="#rs40" class="headerlink" title="rs40"></a>rs40</h3><h2 id="7月项目"><a href="#7月项目" class="headerlink" title="7月项目"></a>7月项目</h2><h3 id="zhou65"><a href="#zhou65" class="headerlink" title="zhou65"></a>zhou65</h3><h3 id="zhou75"><a href="#zhou75" class="headerlink" title="zhou75"></a>zhou75</h3>]]></content>
@@ -53,8 +20,20 @@
         <category>兼容现货</category>
       </categories>
       <tags>
-        <tag>现货</tag>
         <tag>零售</tag>
+        <tag>现货</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>往期团购项目</title>
+    <url>/2022/05/19/historygroupby/</url>
+    <content><![CDATA[<h1 id="2022年"><a href="#2022年" class="headerlink" title="2022年"></a>2022年</h1>]]></content>
+      <categories>
+        <category>兼容团购</category>
+      </categories>
+      <tags>
+        <tag>现货</tag>
+        <tag>团购</tag>
       </tags>
   </entry>
   <entry>
@@ -71,19 +50,19 @@
 <li>彩色屏幕，一般支持驱动型号为st77xx，ILI9xxx，GC9A01，SSD1351</li>
 </ol>
 </li>
-<li><strong>双模</strong>键盘PCB，支持蓝牙和USB连接，使用Y&amp;R修改版的QMK作为固件，VIA和Y&amp;R研发的KBCTL-NG作为改建软件。可附加外设同单模PCB。蓝牙关键参数为：<ol>
+<li><strong>双模</strong>键盘PCB，支持蓝牙和USB连接，使用Y&amp;R修改版的QMK作为固件，VIA或Y&amp;R研发的KBCTL-NG作为改建软件。可附加外设同单模PCB。蓝牙关键参数为：<ol>
 <li>蓝牙芯片为NRF528xx，一般使用NRF52810，支持蓝牙5.x</li>
 <li>蓝牙可支持最多8个无线设备，一般开放4个供玩家使用</li>
 <li>蓝牙下具有全键无冲功能</li>
 <li>蓝牙下具有1k以上的扫描频率，蓝牙默认回报率为125HZ，实测蓝牙触发最小时间间隔为1-2ms，满足日常使用和大部分游戏使用要求</li>
-<li>蓝牙下按键和USB下按键键位一致，可通过驱动进行修改，使用VIA改建时需要在USB连线时才能修改。</li>
+<li>蓝牙下按键和USB下按键键位一致，可通过驱动进行修改，使用VIA改建时需要在USB连线时才能修改</li>
 </ol>
 </li>
 </ol>
 <h3 id="外观和硬件规格"><a href="#外观和硬件规格" class="headerlink" title="外观和硬件规格"></a>外观和硬件规格</h3><p>请确认您需要定制的键盘产品外观符合以下<strong>每项要求之一</strong>，您也可以提供样板我们会为您评估可行性：</p>
 <ol>
 <li>轴体安装方式<ol>
-<li>热拔插，热拔插轴座提供kaihua，jwk可选，颜色kaihua一般为黑色，jwk一般为白色并可选彩色</li>
+<li>热拔插，热拔插轴座提供kaihua，jwk，jiadalong可选，颜色kaihua，jiadalong一般为黑色，jwk一般为白色并可选彩色</li>
 <li>焊接</li>
 </ol>
 </li>
@@ -100,17 +79,17 @@
 <li>板材以及阻焊<ol>
 <li>板材提供FR4纤维板材，一般有下面2种规格：<ol>
 <li>普通半透明浅黄色玻璃纤维</li>
-<li>全黑色不透明黑芯板材。这类板材较贵，且订货周期较长。</li>
+<li>全黑色不透明黑芯板材。这类板材较贵，且订货周期较长</li>
 </ol>
 </li>
 <li>焊盘可选沉金和喷锡2种</li>
 <li>阻焊颜色分为3种，一般可选为：<ol>
 <li>普通色：哑光黑，白，红，蓝，绿，紫，黄。这类色较为便宜</li>
-<li>透明色：全透明亮油，半透明灰油。这类色较贵，一般搭配黑芯板材使用。</li>
-<li>特殊色：粉色，灰色，哑光绿等。这类色是客户指定色或者厂家特有色，价格较贵，工期较长。</li>
+<li>透明色：全透明亮油，半透明灰油。这类色较贵，一般搭配黑芯板材使用</li>
+<li>特殊色：粉色，灰色，哑光绿等。这类色是客户指定色或者厂家特有色，价格较贵，工期较长</li>
 </ol>
 </li>
-<li>PCB厚度可选：1.6mm, 1.2mm, 0.8mm。</li>
+<li>PCB厚度可选：1.6mm, 1.2mm, 0.8mm</li>
 <li>目前团队支持市面上常见的大部分开槽板材设计，包括但不限于多个横槽，多个竖槽，单按键开槽以及组合槽等</li>
 </ol>
 </li>
@@ -161,26 +140,26 @@
 <table>
 <thead>
 <tr>
-<th>数量</th>
-<th>每片抽成费用</th>
+<th style="text-align:left">数量</th>
+<th style="text-align:left">每片抽成费用</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>[50,100)</td>
-<td>50元</td>
+<td style="text-align:left">[50,100)</td>
+<td style="text-align:left">50元</td>
 </tr>
 <tr>
-<td>[100,300)</td>
-<td>40元</td>
+<td style="text-align:left">[100,300)</td>
+<td style="text-align:left">40元</td>
 </tr>
 <tr>
-<td>[300,500)</td>
-<td>35元</td>
+<td style="text-align:left">[300,500)</td>
+<td style="text-align:left">35元</td>
 </tr>
 <tr>
-<td>[500,+inf）</td>
-<td>30元</td>
+<td style="text-align:left">[500,+inf）</td>
+<td style="text-align:left">30元</td>
 </tr>
 </tbody>
 </table>
@@ -353,6 +332,27 @@
         <tag>团购</tag>
         <tag>定制</tag>
         <tag>商务合作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>团队简介</title>
+    <url>/2022/05/18/aboutus/</url>
+    <content><![CDATA[<h1 id="Y-amp-R-客制化PCBA制作工作室"><a href="#Y-amp-R-客制化PCBA制作工作室" class="headerlink" title="Y&amp;R 客制化PCBA制作工作室"></a>Y&amp;R 客制化PCBA制作工作室</h1><p>Y&amp;R成立于2021年7月，团队的成立没有也不需要一个炫酷或者有趣的背景故事，我们只是一群机械键盘爱好者，碰巧拥有合适的专业知识和技能，可以为这个好玩的社区提供增值产品和服务。</p>
+<p>针对机械键盘领域，我们目前的工作主要集中在三个方面：</p>
+<ol>
+<li>PCB/PCBA设计，测试，生产和售后委托</li>
+<li>兼容PCBA的板材团购</li>
+<li>流行配列的兼容PCBA的代理批发和零售</li>
+</ol>
+<p>关于团队工作的详细介绍和进度跟踪详情见<a href="/about">Y&amp;R团队</a></p>
+]]></content>
+      <categories>
+        <category>团队</category>
+      </categories>
+      <tags>
+        <tag>关于我们</tag>
+        <tag>定制流程</tag>
+        <tag>联系我们</tag>
       </tags>
   </entry>
 </search>
